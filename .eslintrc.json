@@ -11,7 +11,7 @@
         "ecmaVersion": "latest",
         "sourceType": "module"
     },
-    "ignorePatterns": ["*.config.js"],
+    "ignorePatterns": ["*.config.js", "main.js"],
     "rules": {
     }
 }
